@@ -3,3 +3,5 @@ tags:
 languages:
   - ruby
 resources: 1
+
+parent_template: git@github.com:learn-co-curriculum/oo-cash-register.git
